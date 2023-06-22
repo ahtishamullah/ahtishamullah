@@ -1,30 +1,63 @@
 ## Hello World! I'm Ahtisham Ullah 👋
 
-As a JavaScript full stack developer with 3 years of experience, I have honed my skills in a wide range of technologies and frameworks. I am proficient in building robust and scalable web applications using popular libraries such as React, Vue, Nuxt, Next.js, and Gatsby. On the backend, I am well-versed in Node.js and Express, allowing me to create efficient server-side logic and APIs. Additionally, I have extensive knowledge of working with databases like MongoDB and PostgreSQL, enabling me to design and implement data storage solutions. My expertise extends to GraphQL, a powerful query language for APIs, and Nest.js, a framework for building efficient and scalable server-side applications. With my diverse skill set, I am well-equipped to handle end-to-end development projects and contribute to building modern, user-friendly web applications.
 
-## 📘 About Me
+ I am currently in the process of learning **DevOps**, **blockchain development **.
 
-<img src="sus.png" height="200" align="right">
+### 🛠️ Tried hands on
 
-- 💻 I'm currently working as a Site Reliability Engineer, focusing on ensuring the reliability, scalability, and performance of web applications and infrastructure.
-- ☁️ I'm passionate about Cloud Computing and Systems Design, exploring ways to leverage cloud platforms to optimize application deployment, scalability, and cost-efficiency.
-- 🛠️ I'm currently developing a Chrome extension to enhance productivity and user experience in web browsing.
-- 📖 I'm preparing to take the GMAT exam to further expand my knowledge and pursue future educational opportunities.
-- 📝 I'm looking for guidance and assistance with Digital Marketing strategies to effectively promote products or services and reach a wider audience.
-- 📂 I'm actively seeking opportunities to contribute to open source software projects, leveraging my development skills and collaborating with the community to create meaningful solutions.
-- ☕ Feel free to ask me about philosophy, debate, and coffee - three topics that I'm particularly passionate about and enjoy discussing.
-- 🌎 I firmly believe that everything in the world is interconnected in some way, and I find great value in exploring the relationships and interdependencies between different aspects of life, technology, and society.
+#### 👨‍💻 Programming and markup languages
 
-#
-<p align="center">
-   <i>"A ship is safe in harbor, but that's not what ships are for." — William Shedd
-</i>
-   
-<br>
-<br>
-<a target="_blank" href="[https://www.linkedin.com/in/anduleh/](https://www.linkedin.com/in/ahtisham-ullah-7b39ab260/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:andrewmyli96@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://www.andrewli.info/"><img src="https://img.shields.io/badge/-resume-003366?style=for-the-badge&logo=iCloud&logoColor=white"></img></a>
-<br>
+<p>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="24"></a>
+</p>
+
+#### 🧰 Frameworks and libraries
+
+<p >
+ 
+   <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?  logo=node.js&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="24"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" height="24"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=%234FC08D" height="24"></a>
+    <a href="#"><img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-35495e.svg?logo=nuxt.js&logoColor=%234FC08D" height="24"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399.svg?logo=gatsby&logoColor=white" height="24"></a>
+    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white" height="24"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" height="24"></a>
+</p>
+
+
+
+#### 🗄️ Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white" height="24"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" height="24"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="24"></a>
+</p>
+
+#### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-175DDC?logo=docker& logoColor=white" height="24"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Notepadplusplus" src="https://img.shields.io/badge/-Notepad++-grey?logo=notepadplusplus&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-34A853.svg?logo=selenium&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F37626.svg?logo=ubuntu&logoColor=white" height="24"></a>
+</p>
+
 
 </p>     
